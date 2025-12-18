@@ -1,0 +1,10 @@
+Accuracy: 0.8737
+
+                   precision    recall  f1-score   support
+
+cigarette_smoking     0.8182    0.9574    0.8824        47
+      not_smoking     0.9500    0.7917    0.8636        48
+
+         accuracy                         0.8737        95
+        macro avg     0.8841    0.8746    0.8730        95
+     weighted avg     0.8848    0.8737    0.8729        95

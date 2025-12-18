@@ -1,0 +1,26 @@
+# =========================
+# Ignore datasets (images only)
+# =========================
+data/
+dataset/
+test/
+misclassified/
+
+# =========================
+# Ignore virtual environment & cache
+# =========================
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# =========================
+# Ignore CSV predictions only
+# =========================
+*.csv
+
+# =========================
+# OS junk
+# =========================
+.DS_Store
+Thumbs.db
+
