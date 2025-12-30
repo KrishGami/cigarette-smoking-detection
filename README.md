@@ -87,4 +87,4 @@ The model demonstrates strong performance with high recall for the cigarette_smo
 
 ## Author
 
-Developed as an academic deep learning project for cigarette smoking detection using computer vision.
+Krish Gami
